@@ -1,0 +1,11 @@
+{
+  "bittrex": {
+    "apikey": ""
+  },
+
+  "telegram": {},
+
+  "app": {
+    "pollingInterval": 5000
+  }
+}
